@@ -1,0 +1,16 @@
+.circle {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50%;
+}
+
+.yellow {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50%;
+  background-color: yellow;
+}
